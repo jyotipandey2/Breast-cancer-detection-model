@@ -63,6 +63,6 @@ Train on segmented regions for classification.
 
 Evaluation:
 
-Metrics: Dice Score (Segmentation), Accuracy, Precision, Recall, F1-score (Classification).
+Metrics: Accuracy, Sensitivity and specificity.
 
 
