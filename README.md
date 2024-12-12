@@ -23,19 +23,9 @@ Customizable architecture to fit the specific dataset.
 
 Requirements
 
-Python 3.8+
+Python 3.8+, PyTorch 1.9.0+, Pandas, scikit-learn
 
-PyTorch 1.9.0+
 
-Pandas
-
-scikit-learn
-
-OpenCV
-
-Matplotlib
-
-tqdm
 
 
 Dataset 
